@@ -8,36 +8,36 @@
 
 </Property>
 	<Item Name="_ProjectProvider" Type="Folder">
-		<Item Name="Item_Interface.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic/Negentropic/Item_Interface.vi"/>
-		<Item Name="Item_OnCommand.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic/Negentropic/Item_OnCommand.vi"/>
-		<Item Name="Item_OnPopupMenu.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic/Negentropic/Item_OnPopupMenu.vi"/>
+		<Item Name="Item_Interface.vi" Type="VI" URL="../Item_Interface.vi"/>
+		<Item Name="Item_OnCommand.vi" Type="VI" URL="../Item_OnCommand.vi"/>
+		<Item Name="Item_OnPopupMenu.vi" Type="VI" URL="../Item_OnPopupMenu.vi"/>
 	</Item>
 	<Item Name="Commands" Type="Folder">
 		<Item Name="Scaffolding" Type="Folder">
 			<Item Name="Config" Type="Folder">
-				<Item Name="Build Folder Config.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Build Folder Config.vi"/>
-				<Item Name="Create Default Scaffold INI.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Create Default Scaffold INI.vi"/>
-				<Item Name="Load Scaffold Config.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Load Scaffold Config.vi"/>
-				<Item Name="Save Folder Config.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Save Folder Config.vi"/>
-				<Item Name="Scaffold INI Folder.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Scaffold INI Folder.vi"/>
+				<Item Name="Build Folder Config.vi" Type="VI" URL="../Build Folder Config.vi"/>
+				<Item Name="Create Default Scaffold INI.vi" Type="VI" URL="../Create Default Scaffold INI.vi"/>
+				<Item Name="Load Scaffold Config.vi" Type="VI" URL="../Load Scaffold Config.vi"/>
+				<Item Name="Save Folder Config.vi" Type="VI" URL="../Save Folder Config.vi"/>
+				<Item Name="Scaffold INI Folder.vi" Type="VI" URL="../Scaffold INI Folder.vi"/>
 			</Item>
 			<Item Name="Data Types" Type="Folder">
-				<Item Name="Folder Config.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Folder Config.ctl"/>
-				<Item Name="Folder Enumeration Item.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Folder Enumeration Item.ctl"/>
-				<Item Name="Scope.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Scope.ctl"/>
+				<Item Name="Folder Config.ctl" Type="VI" URL="../Folder Config.ctl"/>
+				<Item Name="Folder Enumeration Item.ctl" Type="VI" URL="../Folder Enumeration Item.ctl"/>
+				<Item Name="Scope.ctl" Type="VI" URL="../Scope.ctl"/>
 			</Item>
 			<Item Name="Scripting" Type="Folder">
-				<Item Name="Create Virtual Folder.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Create Virtual Folder.vi"/>
-				<Item Name="Find Relative Item.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Find Relative Item.vi"/>
+				<Item Name="Create Virtual Folder.vi" Type="VI" URL="../Create Virtual Folder.vi"/>
+				<Item Name="Find Relative Item.vi" Type="VI" URL="../Find Relative Item.vi"/>
 			</Item>
 			<Item Name="Utilities" Type="Folder">
-				<Item Name="Append Path.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Append Path.vi"/>
-				<Item Name="Name Prompt UI.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Name Prompt UI.vi"/>
-				<Item Name="Sort Folders by Depth.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Sort Folders by Depth.vi"/>
-				<Item Name="Split Path.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Split Path.vi"/>
+				<Item Name="Append Path.vi" Type="VI" URL="../Append Path.vi"/>
+				<Item Name="Name Prompt UI.vi" Type="VI" URL="../Name Prompt UI.vi"/>
+				<Item Name="Sort Folders by Depth.vi" Type="VI" URL="../Sort Folders by Depth.vi"/>
+				<Item Name="Split Path.vi" Type="VI" URL="../Split Path.vi"/>
 			</Item>
-			<Item Name="Scaffold Folders.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Scaffold Folders.vi"/>
-			<Item Name="Scaffold Saveas.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/Negentropic IDE/Negentropic IDE/Scaffold Saveas.vi"/>
+			<Item Name="Scaffold Folders.vi" Type="VI" URL="../Scaffold Folders.vi"/>
+			<Item Name="Scaffold Saveas.vi" Type="VI" URL="../Scaffold Saveas.vi"/>
 		</Item>
 	</Item>
 </Library>
