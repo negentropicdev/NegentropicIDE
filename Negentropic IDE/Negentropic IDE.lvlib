@@ -40,4 +40,10 @@
 			<Item Name="Scaffold Saveas.vi" Type="VI" URL="../Scaffold Saveas.vi"/>
 		</Item>
 	</Item>
+	<Item Name="Utilities" Type="Folder">
+		<Item Name="String Manipulation" Type="Folder">
+			<Item Name="Explode String.vi" Type="VI" URL="../Explode String.vi"/>
+			<Item Name="Implode String.vi" Type="VI" URL="../Implode String.vi"/>
+		</Item>
+	</Item>
 </Library>
